@@ -9,8 +9,8 @@ Aplikasi web sederhana untuk mengklasifikasikan kondisi cuaca dari gambar menggu
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/USERNAME/klasifikasi-cuaca-streamlit.git
-cd klasifikasi-cuaca-streamlit
+git clone https://github.com/ahmad-fathi18/weather-classification-cnn
+cd classification-cnn
 ```
 
 2. Buat virtual environment
@@ -35,4 +35,4 @@ streamlit run app.py
 - Python
 
 ## Author
-Ahmad Fathi
+* **Ahmad Fathi** - [GitHub Profile](https://github.com/ahmad-fathi18)
